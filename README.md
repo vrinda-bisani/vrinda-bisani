@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my journey! 🤩
+Python, Java, HTML, CSS, JavaScript, AngularJS, MongoDB, PHP, MySQL, Docker, AWS are my attributes, still counting.
+
+- I am currently pursuing Master of Science in Computer Science from Northeastern University, Seattle.
+- I worked as a Software Engineer at Bank of America, for about two and a half years, from Jun, 2019 to Dec, 2022.
+- I also worked as a Software Developer Intern at IBM, India for about 5 months.
+
+I love fast-paced environments where I can be creative, solve problems, and collaborate with others. I'm passionate about designing and developing innovative solutions to real-world problems, and have completed several academic projects to this end.
+
+Feel free to check out my projects and connect with me on GitHub! 😊
 
 <!--
 **vrinda-bisani/vrinda-bisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
